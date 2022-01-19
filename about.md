@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the webpage for the [Open Source and Reproducible MIR Research tutorial][tutorial-formal], run by Brian McFee and Thor Kell at [ISMIR 2018][ismir] in Paris, France.
+This is the webpage for Lab 0 of CSC 294. It is based on the [Open Source and Reproducible MIR Research tutorial][tutorial-formal], run by Brian McFee and Thor Kell at [ISMIR 2018][ismir] in Paris, France.
 
 The goal of the tutorial is to provide hands-on, practical training for MIR researchers to learn modern tools for improving the quality of their research software - version control, testing, test automation, and so on.
 
