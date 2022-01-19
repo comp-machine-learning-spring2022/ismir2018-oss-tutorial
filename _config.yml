@@ -26,7 +26,7 @@ github_username:  bmcfee
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 baseurl: /ismir2018-oss-tutorial
 plugins:
   - jekyll-feed
